@@ -5,7 +5,7 @@
   1. LAN interne (eth0)
   2. NAT (eth1)
 - Configuration IP statique LAN
-- Accès interface web : https://IP:1443
+- Accès interface web : https://192.168.244.129:1443
 - Configuration du DNS vers AD
 ### Configuration Active Directory
 - Installation AD DS
